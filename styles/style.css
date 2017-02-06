@@ -15,3 +15,62 @@ ul {
 img {
   max-width: 100%;
 }
+
+/* Layout */
+
+.navbar {
+  background: #0094ff;
+  display: flex;
+  justify-content: space-between;
+  color: #fefefe;
+  padding: 0 1rem;
+  align-items: center;
+}
+
+.navbar__name {
+  overflow: auto;
+}
+
+.navbar__links {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.link {
+  color: #fefefe;
+  text-decoration: none;
+  margin: .5rem;
+}
+
+.section {
+  margin: 0;
+}
+
+.grid {
+
+}
+
+.grid__item {
+
+}
+
+.card {
+
+}
+
+.card__tag {
+
+}
+
+.card__pic {
+
+}
+
+.card__header {
+
+}
+
+.card__body {
+
+}
